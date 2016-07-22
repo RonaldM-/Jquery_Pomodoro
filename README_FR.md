@@ -6,10 +6,10 @@ Créez une appli pour gérer des sessions _Pomodoro_.
 
 ## Les fonctionnalités :
 
-* décider de la tâche à effectuer ;
-* démarrer le minuteur (25 minutes) ;
-* travailler sur la tâche jusqu'à ce que le minuteur sonne et la noter comme faite ;
-* prendre une courte pause (5 minutes) ;
-* tous les quatre _Pomodori_ prendre une pause un peu plus longue (15-20 minutes).
+<-- TODO: décider de la tâche à effectuer ; -->
+TODO: démarrer le minuteur (25 minutes) ;
+TODO: travailler sur la tâche jusqu'à ce que le minuteur sonne et la noter comme faite ;
+TODO: prendre une courte pause (5 minutes) ;
+TODO: tous les quatre _Pomodori_ prendre une pause un peu plus longue (15-20 minutes).
 
 Vous avez un squelette de base contenant le code **HTML**, le code **CSS**, et qui intègre **Bootstrap** et **jQuery**.
